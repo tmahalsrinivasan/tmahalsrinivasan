@@ -1,6 +1,6 @@
 - 👋 Hi, I’m TEJ DEEPAK
 - 👀 I’m interested in ...Cooking,Playing Video Games.
-- 🌱 My Tech stack is Python, SQL, Tableau, R Programming.
+- 🌱 My Tech stack -> Python, SQL, Tableau, R Programming.
 - 📫 How to reach me ... https://www.linkedin.com/in/tejdeepak/
 
 <!---
